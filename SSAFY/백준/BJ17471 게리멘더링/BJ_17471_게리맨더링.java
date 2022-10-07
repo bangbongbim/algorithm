@@ -73,7 +73,7 @@ public class BJ_17471_게리맨더링 {
 	static void dfs(int start, boolean flag) {
 		for (int i = 0; i < src[start].size(); i++) {
 			int next = src[start].get(i);
-			if (visited[next] || select[next] == flag)
+			if (visited[next] || select[next] == flag || next == 0)
 				continue;
 			visited[next] = true;
 			dfs(next, flag);
@@ -83,13 +83,24 @@ public class BJ_17471_게리맨더링 {
 
 	static void calcAreaSum(char ch) {
 		for (int i = 1; i <= N; i++) {
-			if (visited[i]) {
-				if (ch == 'A')
+			if (visited[i] ) {
+				if (ch == 'A' && select[i])
 					a_sum += people[i];
-				else if (ch == 'B')
+				else if (ch == 'B' && !select[i])
 					b_sum += people[i];
 			}
 		}
+	}
+
+	// 적어도 하나의 지역은 뽑혀야함
+	// 모두연결되어있어야함
+
+	static boolean cheekcAllConnected() {
+		for (int i = 1; i <= N; i++) {
+			if (!visited[i])
+				return false;
+		}
+		return true;
 	}
 
 	static void subset(int srcIdx) {
@@ -102,7 +113,7 @@ public class BJ_17471_게리맨더링 {
 			b_sum = 0;
 			visited = new boolean[N + 1];
 			for (int i = 1; i <= N; i++) {
-				if (select[i] && src[i].size() != 0) {
+				if (select[i] && !visited[i]) {
 					visited[i] = true;
 					dfs(i, false);
 					calcAreaSum('A');
@@ -111,9 +122,8 @@ public class BJ_17471_게리맨더링 {
 			}
 
 			// B
-			visited = new boolean[N + 1];
 			for (int i = 1; i <= N; i++) {
-				if (!select[i] && src[i].size() != 0) {
+				if (!select[i] && !visited[i]) {
 					visited[i] = true;
 					dfs(i, true);
 					calcAreaSum('B');
@@ -121,9 +131,12 @@ public class BJ_17471_게리맨더링 {
 				}
 			}
 
-			// 한곳이라도 방문한 것에만 더하기
+			// 모든 정점을 방문 했을때에만 계산을 함
+			if (cheekcAllConnected()) {
+				// 한곳이라도 방문한 것에만 더하기
 				min = Math.abs(a_sum - b_sum);
 				answer = Math.min(answer, min);
+			}
 
 			return;
 
