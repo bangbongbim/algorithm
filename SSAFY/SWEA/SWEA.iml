@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/1208. Flattern" isTestSource="false" packagePrefix="basic" />
+      <sourceFolder url="file://$MODULE_DIR$/1225. 암호생성기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1228. 암호문1" isTestSource="false" packagePrefix="basic" />
+      <sourceFolder url="file://$MODULE_DIR$/1233. 사칙연산유효성검사" isTestSource="false" packagePrefix="ps" />
+      <sourceFolder url="file://$MODULE_DIR$/1238. Contract" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1249. 보급로" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1263. 사람네트워크2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1767 프로세서 연결하기" isTestSource="false" packagePrefix="A형찐막찐막" />
+      <sourceFolder url="file://$MODULE_DIR$/1873. 상호의 배틀필드" isTestSource="false" packagePrefix="basic" />
+      <sourceFolder url="file://$MODULE_DIR$/1949. 등산로조성" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1953. 탈주범검거" isTestSource="false" packagePrefix="ps" />
+      <sourceFolder url="file://$MODULE_DIR$/1954. 달팽이 숫자" isTestSource="false" packagePrefix="basic" />
+      <sourceFolder url="file://$MODULE_DIR$/2001. 파리퇴치" isTestSource="false" packagePrefix="basic" />
+      <sourceFolder url="file://$MODULE_DIR$/2805. 농작물수확하기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2819. 격자이어붙이기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3307. 최종증가수열" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4008. 숫자만들기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4012. 요리사" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4013. 특이한 자석" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4193. 수영대회결승정" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5215. 햄버거다이어트" isTestSource="false" packagePrefix="algorithm_basic" />
+      <sourceFolder url="file://$MODULE_DIR$/5656. 벽돌깨기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5858. 보물상자비밀번호" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6808. 규영이와인영이의카드게임" isTestSource="false" packagePrefix="ps" />
+      <sourceFolder url="file://$MODULE_DIR$/7793. 오나의여신님" isTestSource="false" packagePrefix="ps" />
+      <sourceFolder url="file://$MODULE_DIR$/9229. 한빈이와spotmarket" isTestSource="false" packagePrefix="basic" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

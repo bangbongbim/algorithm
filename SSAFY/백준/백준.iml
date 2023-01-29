@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/10026. 적록색약" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1010.  다리놓기" isTestSource="false" packagePrefix="ps" />
+      <sourceFolder url="file://$MODULE_DIR$/10282. 해킹" isTestSource="false" packagePrefix="basic" />
+      <sourceFolder url="file://$MODULE_DIR$/1074_Z" isTestSource="false" packagePrefix="algorithm_basic" />
+      <sourceFolder url="file://$MODULE_DIR$/10971. 외판원순회2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11403_경로찾기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11404_플로이드" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1149. RGB거리" isTestSource="false" packagePrefix="ps" />
+      <sourceFolder url="file://$MODULE_DIR$/11569. 구간합구하기4" isTestSource="false" packagePrefix="basic" />
+      <sourceFolder url="file://$MODULE_DIR$/1158. 요세푸스문제" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11660. 구간합구하기5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11779. 최소비용구하기2" isTestSource="false" packagePrefix="ps" />
+      <sourceFolder url="file://$MODULE_DIR$/1182. 부분수열의합" isTestSource="false" packagePrefix="ps" />
+      <sourceFolder url="file://$MODULE_DIR$/1253_좋다" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1260. DFS와BFS" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1267. 단지번호붙이기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/12891. DNA비밀번호" isTestSource="false" packagePrefix="basic" />
+      <sourceFolder url="file://$MODULE_DIR$/12919_A와B2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13549_숨바꼭질3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1390. 뱀" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14502. 연구소" isTestSource="false" packagePrefix="ps" />
+      <sourceFolder url="file://$MODULE_DIR$/14503. 로봇청소기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14658 하늘에서 별이빗발친다" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1504_특정한최단경로" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1541. 잃어버린괄호" isTestSource="false" packagePrefix="algorithm_basic" />
+      <sourceFolder url="file://$MODULE_DIR$/1600. 말이 되고픈 원숭이" isTestSource="false" packagePrefix="ps" />
+      <sourceFolder url="file://$MODULE_DIR$/16236 아기상어" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/17070 파이프옮기기" isTestSource="false" packagePrefix="ps" />
+      <sourceFolder url="file://$MODULE_DIR$/17135. 캐슬디펜스" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/17143. 낚시왕" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1715. 카드정렬하기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/17281 야구" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1806_부분합" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/18310 안테나" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1916. 최소비용구하기" isTestSource="false" packagePrefix="ps" />
+      <sourceFolder url="file://$MODULE_DIR$/19238. 스타트택시" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1931. 회의실배정" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1992. 쿼드트리" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/20361. 일우는 야바위꾼" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2164. 카드2" isTestSource="false" packagePrefix="basic" />
+      <sourceFolder url="file://$MODULE_DIR$/2178 미로찾기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/22233_가희와키워드" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2239. 스도쿠" isTestSource="false" packagePrefix="ps" />
+      <sourceFolder url="file://$MODULE_DIR$/24479. 깊이우선탐색1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2468. 안전영역" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2493. 탑" isTestSource="false" packagePrefix="ps" />
+      <sourceFolder url="file://$MODULE_DIR$/2531_회전초밥" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2563. 색종이" isTestSource="false" packagePrefix="ps" />
+      <sourceFolder url="file://$MODULE_DIR$/2573 빙산" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2644. 촌수계산하기" isTestSource="false" packagePrefix="ps" />
+      <sourceFolder url="file://$MODULE_DIR$/2665. 미로만들기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2839. 설탕배달" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2954 창영이의 일기장" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3109. 빵집" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4485 녹색 옷 입은 애가 젤다지" isTestSource="false" packagePrefix="algorithm_basic" />
+      <sourceFolder url="file://$MODULE_DIR$/5014. 스타트링크" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5972. 택배배송" isTestSource="false" packagePrefix="ps" />
+      <sourceFolder url="file://$MODULE_DIR$/7569. 토마토" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7576. 토마토" isTestSource="false" packagePrefix="ps" />
+      <sourceFolder url="file://$MODULE_DIR$/9205. 맥주 마시면서 걸어가기" isTestSource="false" packagePrefix="ps" />
+      <sourceFolder url="file://$MODULE_DIR$/BJ11727 타일링2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BJ1463 1로만들기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BJ1717. 집합의표현" isTestSource="false" packagePrefix="algorithm_basic" />
+      <sourceFolder url="file://$MODULE_DIR$/BJ17471 게리멘더링" isTestSource="false" packagePrefix="ps" />
+      <sourceFolder url="file://$MODULE_DIR$/BJ24479. 깊이우선탑색1" isTestSource="false" packagePrefix="ps" />
+      <sourceFolder url="file://$MODULE_DIR$/BJ2606_바이러스" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BJ3055 탈출" isTestSource="false" packagePrefix="algorithm_basic" />
+      <sourceFolder url="file://$MODULE_DIR$/BJ_1238_파티" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BJ_1261_알고스팟" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
